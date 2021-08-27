@@ -14,7 +14,7 @@
      printf("Computer Science\n");
      
      printf("Paige Anthony\n");
-     printf("Computer Science\n");
+     printf("Computer Engineering\n");
      
 return 0;
    }
